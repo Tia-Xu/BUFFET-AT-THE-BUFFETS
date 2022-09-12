@@ -167,4 +167,12 @@ void draw() {
   ellipse(140, 300, 150, 100);
   fill(#278322);
   ellipse(205, 340, 130, 90);
+  
+ //Sidney the Nerd
+ //sun
+ fill(#FBFF36);
+ ellipse(0,0,100,100);
+ 
+
+ 
 }
